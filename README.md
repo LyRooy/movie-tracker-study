@@ -11,10 +11,7 @@
 
 - [O Projekcie](#o-projekcie)
 - [Główne Funkcje](#-główne-funkcje)
-- [Architektura Techniczna](#-architektura-techniczna)
 - [Technologie](#-technologie)
-- [Funkcjonalności](#-funkcjonalności)
-- [Bezpieczeństwo](#-bezpieczeństwo)
 
 ---
 
