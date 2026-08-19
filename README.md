@@ -10,8 +10,8 @@
 ## Spis Treści
 
 - [O Projekcie](#o-projekcie)
-- [Główne Funkcje](#-główne-funkcje)
-- [Technologie](#-technologie)
+- [Główne Funkcje](#główne-funkcje)
+- [Technologie](#technologie)
 
 ---
 
