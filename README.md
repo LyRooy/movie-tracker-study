@@ -3,7 +3,7 @@
 > Nowoczesna aplikacja webowa do zarządzania listą obejrzanych filmów i seriali z zaawansowanym systemem śledzenia odcinków, wyzwań i odznak.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+![Status](https://img.shields.io/badge/status-inactive-success.svg)
 
 ---
 
